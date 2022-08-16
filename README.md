@@ -5,6 +5,8 @@ This project uses maching learning to calculate and predict cridit rick.
 ## Results
 
 ### Random Over Sampler model
+![](res/ROverSampler.PNG)
+![](res/ROverSampler1.PNG)
 
 
 Accuracy Score: 65%; Precision High Risk: 1%; Precision Low Risk: 100%; Recall High Risk: 62%; Recall Low Risk: 67%

@@ -8,27 +8,37 @@ This project uses maching learning to calculate and predict cridit rick.
 ![](res/ROverSampler.PNG)
 ![](res/ROverSampler1.PNG)
 
-
 Accuracy Score: 65%; Precision High Risk: 1%; Precision Low Risk: 100%; Recall High Risk: 62%; Recall Low Risk: 67%
 
 ### SMOTE model
+![](res/SMOTE.PNG)
+![](res/SMOTE1.PNG)
 
 Accuracy Score: 63%; Precision High Risk: 1%; Precision Low Risk: 100%; Recall High Risk: 62%; Recall Low Risk: 63%
 
 
 ### Cluster Centroids Undersampling
+![](res/CCM.PNG)
+![](res/CCM1.PNG)
 
 Accuracy Score: 51%; Precision High Risk: 1%; Precision Low Risk: 100%; Recall High Risk: 57%; Recall Low Risk: 46%
 
 ### SMOTEENN model
+![](res/SMOTEENN.PNG)
+![](res/SMOTEENN1.PNG)
 
 Accuracy Score: 62%; Precision High Risk: 1%; Precision Low Risk: 100%; Recall High Risk: 71%; Recall Low Risk: 54%
 
 ###  Balanced Random Forest Classifier model
+![](res/BalancedRandomForestClassifier.PNG)
+![](res/BalancedRandomForestClassifier1.PNG)
+
 
 Accuracy Score: 78%; Precision High Risk: 4%; Precision Low Risk: 100%; Recall High Risk: 91%; Recall Low Risk: 67%
 
 ###  Easy Ensemble Classifier model
+![](res/EasyEnsembleClassifier.PNG)
+![](res/EasyEnsembleClassifier1.PNG)
 
 Accuracy Score: 93%; Precision High Risk: 7%; Precision Low Risk: 100%; Recall High Risk: 91%; Recall Low Risk: 94%
 
